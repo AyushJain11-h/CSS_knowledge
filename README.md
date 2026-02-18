@@ -135,8 +135,6 @@ Beginner-Friendly – Explains CSS concepts in simple terms.
 
 🌟 Contributing
 
-Contributions are welcome! If you want to add new tips, examples, or advanced CSS techniques, feel free to open a pull request.
-
 📂 Folder Structure
 css-cheatsheet/
 │
